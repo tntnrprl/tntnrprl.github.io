@@ -61,6 +61,6 @@ last_modified_at: 2025-03-21
 
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/e75cf00b-ac63-4c02-9723-e3436d5c7655">
+<img src="https://github.com/user-attachments/assets/e75cf00b-ac63-4c02-9723-e3436d5c7655" alt="gif"/>
 
 </p>
