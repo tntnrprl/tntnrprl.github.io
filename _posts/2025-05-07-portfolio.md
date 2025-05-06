@@ -33,7 +33,7 @@ last_modified_at: 2025-05-07
 
     * script
 
-    ![Image](https://github.com/user-attachments/assets/5c9ae296-95e1-4048-a38e-e1d239aca4af){: width="700"}
+    ![Image](https://github.com/user-attachments/assets/84aa82d6-97a6-4308-8d7a-1cdb798f8a33){: width="700"}
 
 <br>
 <br>
@@ -58,8 +58,8 @@ last_modified_at: 2025-05-07
 
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/ee0ddc01-11ac-4f70-ae86-ca92b93df6cc" alt="gif"/>
-<img src="https://github.com/user-attachments/assets/b7268870-c69d-4ad5-b220-82aa00cc93dc" alt="gif"/>
-
+<img src="https://github.com/user-attachments/assets/1b5c5e7b-0431-4cdb-be8f-8cd76b1e6a39" alt="gif"/>
+<img src="https://github.com/user-attachments/assets/0cea9795-e047-4267-961c-29f684a5cfe3" alt="gif"/>
 
 </p>
+
