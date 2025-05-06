@@ -8,14 +8,14 @@ toc: true
 toc_sticky: true
 
 date: 2025-03-21
-last_modified_at: 2025-05-07
+last_modified_at: 2025-03-21
 ---
 
 --------------------
 
 ## 1. Excel Converter
 
-> 규격화된 Excel 데이터를 ScriptableObject 로 변환
+> 규격화된 excel 데이터를 struct 로 변환
 
 * 툴 제작
 
@@ -23,17 +23,17 @@ last_modified_at: 2025-05-07
 
 * 추출된 내용
 
-    * ScriptableObject로 변환환
+    * csv text file
 
-    ![Image](https://github.com/user-attachments/assets/8f541041-88df-4e34-a9bf-dd287d3ad179)
+    ![Image](https://github.com/user-attachments/assets/d1e7816a-789e-4d7e-a85d-4cbaa595b1be)
 
-    * class
+    * struct
 
-    ![Image](https://github.com/user-attachments/assets/1ff6687c-4672-47ed-8c57-3f6182aa7276)
+    ![Image](https://github.com/user-attachments/assets/adc9fea2-7956-4db1-893c-99a8fd39b5a8)
 
     * script
 
-    ![Image](https://github.com/user-attachments/assets/cb5c8627-e861-4cc5-99c1-a8e6e011b016){: width="700"}
+    ![Image](https://github.com/user-attachments/assets/94bc6fab-cc44-4096-beea-53617014f7ef){: width="700"}
 
 <br>
 <br>
@@ -41,7 +41,7 @@ last_modified_at: 2025-05-07
 ----------
 ## 2. 데이터 뷰어
 
-> ScriptableObject로 변환된 파일들을 노출 및 수정할수 있는 툴 제작
+> Csv text 파일로 변환된 파일들을 노출 및 수정할수 있는 툴 제작
 
 ![Image](https://github.com/user-attachments/assets/5c9ae296-95e1-4048-a38e-e1d239aca4af){: width="700"}
 
@@ -51,15 +51,16 @@ last_modified_at: 2025-05-07
 ----------
 ## 3. 행동 제어 및 상태 관찰을 위한 툴 제작
 
-![Image](https://github.com/user-attachments/assets/84aa82d6-97a6-4308-8d7a-1cdb798f8a33){: width="700"}
+![Image](https://github.com/user-attachments/assets/cc6e3252-79ad-4130-a550-956a729a067d){: width="700"}
+
+![Image](https://github.com/user-attachments/assets/7f8fc951-e8b4-4870-8e2d-86a21503dc3d){: width="700"}
 
 <br>
 <br>
+
 
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/ee0ddc01-11ac-4f70-ae86-ca92b93df6cc" alt="gif"/>
-<img src="https://github.com/user-attachments/assets/b7268870-c69d-4ad5-b220-82aa00cc93dc" alt="gif"/>
-
+<img src="https://github.com/user-attachments/assets/e75cf00b-ac63-4c02-9723-e3436d5c7655" alt="gif"/>
 
 </p>
