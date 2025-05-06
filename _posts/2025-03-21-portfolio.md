@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 
 date: 2025-03-21
-last_modified_at: 2025-03-21
+last_modified_at: 2025-05-07
 ---
 
 --------------------
@@ -41,7 +41,7 @@ last_modified_at: 2025-03-21
 ----------
 ## 2. 데이터 뷰어
 
-> Csv text 파일로 변환된 파일들을 노출 및 수정할수 있는 툴 제작
+> ScriptableObject로 변환된 파일들을 노출 및 수정할수 있는 툴 제작
 
 ![Image](https://github.com/user-attachments/assets/5c9ae296-95e1-4048-a38e-e1d239aca4af){: width="700"}
 
