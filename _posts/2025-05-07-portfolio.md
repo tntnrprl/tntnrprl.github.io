@@ -33,7 +33,7 @@ last_modified_at: 2025-05-07
 
     * script
 
-    ![Image](https://github.com/user-attachments/assets/cb5c8627-e861-4cc5-99c1-a8e6e011b016){: width="700"}
+    ![Image](https://github.com/user-attachments/assets/5c9ae296-95e1-4048-a38e-e1d239aca4af){: width="700"}
 
 <br>
 <br>
@@ -51,7 +51,7 @@ last_modified_at: 2025-05-07
 ----------
 ## 3. 행동 제어 및 상태 관찰을 위한 툴 제작
 
-![Image](https://github.com/user-attachments/assets/84aa82d6-97a6-4308-8d7a-1cdb798f8a33){: width="700"}
+![Image](https://github.com/user-attachments/assets/2d7a7e49-4c49-4693-a1a7-31f3c24fd7ea){: width="700"}
 
 <br>
 <br>
